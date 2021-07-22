@@ -1,4 +1,4 @@
-# Win7-GamesExBlocker
+# Win7-GamesExplorerBlocker
 Disable Windows 7 Games Explorer completely
 
 [release_link]: https://github.com/TAN-Gaming/Win7-GamesExBlocker/releases
