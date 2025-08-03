@@ -1,8 +1,6 @@
 /*
- * Win7-GamesExplorerBlocker
- *
- * Disable Windows 7 Games Explorer completely and remove rundll32.exe process
- * from your games.
+ * Win7-GamesExplorerBlocker - Disable Windows 7 Games Explorer completely and
+ * remove rundll32.exe process from your games.
  *
  * Written in 2021 by Thamatip Chitpong <tangaming123456@outlook.com>
  *
@@ -41,3 +39,4 @@ BOOL WINAPI DllMain(HINSTANCE hInstDLL, DWORD fdwReason, LPVOID lpReserved)
 
     return TRUE;  // Successful DLL_PROCESS_ATTACH.
 }
+
